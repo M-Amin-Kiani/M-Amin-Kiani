@@ -1,40 +1,54 @@
-- 👋 Hi, I’m Amin kiani
-- 👀 I’m interested in music & codes!
-- 🌱 I’m currently learning c families in uni of esfahan ( + python )
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me:
--  _amin.solo.kiani_  on instagram 
-- Amin_kiani on telegram
-- 
 # 👋 Hi, I’m Amin kiani
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BGqzGjd1z9uXkfu/giphy.gif" width="300" alt="Hi there!"/>
+  <img src="https://media4.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy.gif" 
+       width="600" 
+       alt="Deep Learning GIF"/>
 </div>
 
-## درباره من
-من یک توسعه‌دهنده‌ی نرم‌افزار هستم که عاشق یادگیری و استفاده از فناوری‌های نوین در پروژه‌های وب و موبایل می‌باشم. در کنار کدنویسی، به طراحی و بهبود تجربه‌ی کاربری علاقه دارم و همیشه به دنبال چالش‌های جدید هستم.
+## About Me
+🎓 Computer Engineering student at the University of Isfahan with a deep passion for Artificial Intelligence (AI).
 
-## تکنولوژی‌های مورد استفاده
+💬 Ask me about AI & Game Development
+
+🌱 Hobbies: 📖 Books, 🎮 Video games, 💻 Tech, 👀 Music
+
+## 💻 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js"/>
-  <!-- می‌توانید سایر تکنولوژی‌های مورد علاقه‌ی خود را نیز اضافه کنید -->
+  <!--Other Techs -->
 </div>
 
-## آمار GitHub من
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="آمار گیت‌هاب من"/>
+  <a href="https://github.com/M-Amin-Kiani">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Amin-Kiani&layout=compact&theme=radical" alt="Top Languages"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=M-Amin-Kiani&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  </a>
 </div>
 
-## ارتباط با من
-- Email: [aminkianiworkeng@gmail.com](mailto:aminkianiworkeng@gmail.com)
-- [LinkedIn](https://linkedin.com/in/Amin_kiani)
-- [Twitter](https://twitter.com/Amin_Kiani)
-- [Instagram](https://instagram.com/_amin.solo.kiani_)
-- [Telegram](https://telegram.com/Amin_kiani)
+## How to reach me?
+- **Email:** [aminkianiworkeng@gmail.com](mailto:aminkianiworkeng@gmail.com)
+- **Instagram:** [_amin.solo.kiani_](https://instagram.com/_amin.solo.kiani_)
+- **Telegram:** [@Amin_Kiani](https://t.me/Amin_Kiani)
+- **LinkedIn:** [Amin_kiani](https://linkedin.com/in/Amin_kiani)
+- **Twitter:** [Amin_Kiani](https://twitter.com/Amin_Kiani)
+<div align="center">
+  <!-- ایمیل -->
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <!-- لینکدین (در صورت نیاز لینک را تغییر دهید) -->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- تلگرام -->
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <!-- اینستاگرام -->
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  
+</div>
 
 ---
 
