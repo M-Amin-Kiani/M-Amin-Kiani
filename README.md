@@ -1,11 +1,5 @@
 # 👋 Hi, I’m Amin kiani
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy.gif" 
-       width="600" 
-       alt="Deep Learning GIF"/>
-</div>
-
 ## About Me
 🎓 Computer Engineering student at the University of Isfahan with a deep passion for Artificial Intelligence (AI).
 
