@@ -1,8 +1,12 @@
-# 👋 Hi, I’m Mohammad Amin kiani
+# 👋 Hi, I’m <p align="center">
+  <a href="https://github.com/M-Amin-Kiani">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=F70000&center=true&width=435&lines=Mohammad+Amin+Kiani" alt="Mohammad Amin Kiani" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/M-Amin-Kiani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=F70000&center=true&width=435&lines=MoAmin+Kiani" alt="Mohammad Amin Kiani" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=AI+Developer;Python+%7C+ML+RL+DL;C%23+%7Cpp+Torch " />
+  </a>
 </p>
 
 ## About Me
@@ -11,12 +15,6 @@
 💬 Ask me about AI & Game Development
 
 🌱 Hobbies: 📖 Books, 🎮 Video games, 💻 Tech, 👀 Music
-
-<p align="center">
-  <a href="https://github.com/M-Amin-Kiani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Software+Developer;Java+%7C+Spring+Boot;C%23+%7C+Asp.Net" />
-  </a>
-</p>
 
 <img src="https://komarev.com/ghpvc/?username=M-Amin-Kiani&style=flat-square&color=F70000" alt=""/>
 
