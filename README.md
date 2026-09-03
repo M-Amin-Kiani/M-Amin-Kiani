@@ -74,7 +74,6 @@
 ---
 
 ### 📊 GitHub Stats :
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=M-Amin-Kiani&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=M-Amin-Kiani&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <a href="https://github.com/M-Amin-Kiani">
@@ -83,6 +82,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=M-Amin-Kiani&show_icons=true&theme=radical" alt="GitHub Stats"/>
   </a>
 </div>
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=M-Amin-Kiani&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact)](https://git.io/streak-stats)
 
 ## 💻 Tech Stack
 <div align="center">
