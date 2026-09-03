@@ -1,4 +1,9 @@
-# 👋 Hi, I’m Amin kiani
+# 👋 Hi, I’m Mohammad Amin kiani
+
+<p align="center">
+  <a href="https://github.com/M-Amin-Kiani">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=F70000&center=true&width=435&lines=MoAmin+Kiani" alt="Mohammad Amin Kiani" /></a>
+</p>
 
 ## About Me
 🎓 Computer Engineering student at the University of Isfahan with a deep passion for Artificial Intelligence (AI).
@@ -6,12 +11,6 @@
 💬 Ask me about AI & Game Development
 
 🌱 Hobbies: 📖 Books, 🎮 Video games, 💻 Tech, 👀 Music
-
-
-<p align="center">
-  <a href="https://github.com/M-Amin-Kiani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=F70000&center=true&width=435&lines=MoAmin+Kiani" alt="Mohammad Amin Kiani" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/M-Amin-Kiani">
