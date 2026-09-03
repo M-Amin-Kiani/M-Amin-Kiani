@@ -11,18 +11,12 @@
 </p>
 
 ## About Me
-🎓 Computer Engineering student at the University of Isfahan with a deep passion for Artificial Intelligence (AI).
-
-💬 Ask me about AI & Game Development
-
-🌱 Hobbies: 📖 Books, 🎮 Video games, 💻 Tech, 👀 Music
-
-<img src="https://komarev.com/ghpvc/?username=M-Amin-Kiani&style=flat-square&color=F70000" alt=""/>
+🎓 M.Sc in AI at the University of Isfahan.
 
 - 🔭 Presently, I am engrossed in managing both work and university projects.
-- 🌱 My current focus revolves around acquiring and honing software engineering skills.
+- 🌱 My current focus revolves around acquiring and honing AI engineering skills.
 - 👯 I am actively seeking opportunities for collaboration in various domains.
-- 🤔 Assistance is welcome on any software-related matters!
+- 🤔 Assistance is welcome on any AI-related matters!
 - 💬 Feel free to approach me with inquiries about anything at all!
 - 📫 You can reach out to me via [**@aminkiani82**](https://t.me/aminkiani82) or drop me an email at **aminkianiworkeng@gmail.com**.
 
@@ -85,33 +79,9 @@
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=M-Amin-Kiani&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact)](https://git.io/streak-stats)
 
-## 💻 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <!--Other Techs -->
-</div>
-
-## How to reach me?
-- **Email:** [aminkianiworkeng@gmail.com](mailto:aminkianiworkeng@gmail.com)
-- **Instagram:** [_amin.solo.kiani_](https://instagram.com/_amin.solo.kiani_)
-- **Telegram:** [@Amin_Kiani](https://t.me/Amin_Kiani)
-- **LinkedIn:** [Amin_kiani](https://linkedin.com/in/Amin_kiani)
-- **Twitter:** [Amin_Kiani](https://twitter.com/Amin_Kiani)
-<div align="center">
-  <!-- ایمیل -->
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  <!-- لینکدین (در صورت نیاز لینک را تغییر دهید) -->
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  <!-- تلگرام -->
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  <!-- اینستاگرام -->
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  
-</div>
-
 ---
 
-> **"I’m interested in music & codes!"**
+> **"I’m interested in 📖 Books, 🎮 Video games, 💻 Tech, 👀 Music!"**
+
+<img src="https://komarev.com/ghpvc/?username=M-Amin-Kiani&style=flat-square&color=F70000" alt=""/>
+
