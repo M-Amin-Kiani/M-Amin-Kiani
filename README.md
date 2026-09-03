@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/M-Amin-Kiani">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=AI+Developer;Python+%7C+ML+RL+DL;C%23+%7Cpp+Torch " />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=AI+Developer;Python+%7C+ML+RL+DL;C%23+%7C+Cpp+Torch " />
   </a>
 </p>
 
